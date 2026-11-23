@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "algo-lab"
 version = "0.1.0"
-description = "Алгоритмический пакет"
+description = "Алгоритмический мини-пакет"
 requires-python = ">=3.10"
 
 [tool.setuptools.packages.find]

@@ -1,3 +1,4 @@
 .idea/
 src/algo_lab.egg-info/
 src/algo_lab/__pycache__/
+tests/__pycache__/
